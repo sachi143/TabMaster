@@ -1,0 +1,8 @@
+
+---
+
+### **`requirements.txt`**
+```plaintext
+selenium
+pyautogui
+pytest
