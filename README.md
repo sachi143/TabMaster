@@ -25,5 +25,5 @@ TabMaster is a Python-based automation tool that manages browser tabs, performs 
 1. Clone the repository:
 
    ```bash
-   git clone <[repository-url](https://github.com/sachi143/TabMaster)>
+   git clone https://github.com/sachi143/TabMaster
    cd TabMaster
